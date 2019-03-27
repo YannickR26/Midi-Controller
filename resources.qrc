@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/pixmap">
+        <file>pixmap/ajouter.png</file>
+        <file>pixmap/avance_rapide.png</file>
+        <file>pixmap/fleche_bas.png</file>
+        <file>pixmap/fleche_haut.png</file>
+        <file>pixmap/midi.ico</file>
+        <file>pixmap/midi.png</file>
+        <file>pixmap/muet.png</file>
+        <file>pixmap/No_Cover.jpg</file>
+        <file>pixmap/pause.png</file>
+        <file>pixmap/play.png</file>
+        <file>pixmap/precedent.png</file>
+        <file>pixmap/recule_rapide.png</file>
+        <file>pixmap/stop.png</file>
+        <file>pixmap/suivant.png</file>
+        <file>pixmap/supprimer.png</file>
+        <file>pixmap/volume.png</file>
+        <file>pixmap/midi.icns</file>
+    </qresource>
+</RCC>
